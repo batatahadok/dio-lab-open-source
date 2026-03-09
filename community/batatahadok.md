@@ -12,5 +12,4 @@ Se quiser ver outra coisa engraçada passeie pelo meu perfil da steam, so bobage
 
 
 ![Dwarf!?](https://shared.akamai.steamstatic.com/community_assets/images/apps/35480/ab6758c9e6e56f5d6e4c778c63e4eb345f2bcad1.jpg)
-![Static Badge](https://img.shields.io/badge/steam-profile-fabd2f?logo=steam&labelColor=282828)
-
+[![Static Badge](https://img.shields.io/badge/steam-profile-fabd2f?logo=steam&labelColor=282828)](https://steamcommunity.com/id/batatahadok/stats/Dwarfs)
